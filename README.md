@@ -1,6 +1,6 @@
 # Tarang: Responsive Event Management Website
 
-**Made by:** Aaditya Kumar Singh | Kalinga Institute of Industrial Technology | Btech CSE 5th Semester  
+**Made by:** Aaditya Kumar Singh | 24051750 | Kalinga Institute of Industrial Technology | Btech CSE 5th Semester  
 **Task:** K Explore, Web Designing: Design and Develop a Responsive Event Management Website
 
 **Live site:** https://tarang-ashy.vercel.app  
