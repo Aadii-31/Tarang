@@ -3,8 +3,8 @@
 **Made by:** Aaditya Kumar Singh | Kalinga Institute of Industrial Technology | Btech CSE 5th Semester  
 **Task:** K Explore, Web Designing: Design and Develop a Responsive Event Management Website
 
-**Live site:** YOUR-VERCEL-LINK  
-**GitHub repository:** https://github.com/Web-pirate05/tarang
+**Live site:** https://tarang-ashy.vercel.app  
+**GitHub repository:** https://github.com/Aadii-31/Tarang.git
 
 ![Tarang home page](screenshots/home.png)
 
@@ -55,7 +55,7 @@ Tarang is a single-page event platform. Visitors can browse upcoming events on a
 
 | Registration | Mobile view | Dark mode |
 |---|---|---|
-| ![Registration](screenshots/registration.png) | ![Mobile](screenshots/mobile.png) | ![Dark Mode](screenshots/darkmode.png) |
+| ![Registration](screenshots/registration.png) | ![Mobile](screenshots/mobile.jpeg) | ![Dark Mode](screenshots/darkmode.png) |
 
 ## Project structure
 ```

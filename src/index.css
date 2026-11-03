@@ -129,3 +129,17 @@ form h3{margin-bottom:12px;font-size:1.3rem}
 .foot{padding:26px 0;border-top:1px solid var(--line);color:var(--muted);font-size:.9rem}
 
 @media(prefers-reduced-motion:reduce){*,*::before,*::after{animation:none!important;transition:none!important;scroll-behavior:auto!important}}
+
+@media(max-width:640px){
+  .top .wrap{gap:8px;height:auto;min-height:60px;padding:8px 0}
+  .logo{font-size:1.3rem}
+  .tabs{gap:2px}
+  .tab{padding:8px 10px;font-size:.9rem}
+  .icon{width:36px;height:36px}
+  .hero{padding:36px 0 24px}
+  .hero h1{font-size:2.2rem}
+  .big-search{padding:14px 16px!important;font-size:1rem}
+  .spot .wrap{padding:18px 0}
+  .cd div{min-width:0;flex:1}
+  .drawer{padding:20px}
+}
